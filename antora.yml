@@ -1,5 +1,5 @@
-name: REPLACEREPONAME
-title: REPLACE Course Title
+name: edge-test
+title: Test Course Title
 version: 1
 nav:
 - modules/ROOT/nav.adoc

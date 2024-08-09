@@ -1,8 +1,8 @@
 schemaVersion: 2.1.0
 metadata:
-  name: REPLACEREPONAME-dev
-  displayName: RHODS Quick Course
-  description: RHODS Quick Course published using Antora
+  name: edge-test
+  displayName: Ted Test Quick Course
+  description: Ted Test Quick Course published using Antora
   icon: https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg
   tags:
     - Node.js
@@ -12,10 +12,10 @@ metadata:
   language: JavaScript
   version: 2.1.1
 starterProjects:
-  - name: REPLACEREPONAME-dev
+  - name: edge-test-dev
     git:
       remotes:
-        origin: 'https://github.com/RedHatTraining/REPLACEREPONAME.git'
+        origin: 'https://github.com/t1s1/edge-test.git'
 components:
   - name: runtime
     container:
